@@ -1,0 +1,1 @@
+const getAllCategories = require("./getallCategories")
