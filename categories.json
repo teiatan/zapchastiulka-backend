@@ -1,0 +1,34 @@
+[
+    {
+        "mainCategory": "Запчастини до сільгосптехніки",
+        "subCategory": ["John Deere", "Case та New Holland", "Claas", "МТЗ", "Інша сільгосптехніка"]
+    },
+    {
+        "mainCategory": "Запчастини до вантажних автомобілів",
+        "subCategory": ["DAF", "MAN", "Mercedes-Benz", "Renault", "VOLVO", "IVECO", "Scania", "Камаз", "МАЗ", "ГАЗ", "ЗИЛ"]
+    },
+    {
+        "mainCategory": "Масла і автохімія",
+        "subCategory": ["Моторні", "Трансмісійні", "Гідравлічні", "Змазки", "Автохімія"]
+    },
+    {
+        "mainCategory": "Фільтри",
+        "subCategory": ["Масляні", "Паливні", "Повітряні", "Інші"]
+    },
+    {
+        "mainCategory": "Підшипники"
+    },
+    {
+        "mainCategory": "Шини та камери"
+    },
+    {
+        "mainCategory": "",
+        "subCategory": ["", "", "", "", ""]
+    },
+    {
+        "mainCategory": "Інші товари"
+    },
+    {
+        "mainCategory": "Товари без категорії"
+    }
+]

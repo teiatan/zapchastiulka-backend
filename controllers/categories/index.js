@@ -1,1 +1,5 @@
-const getAllCategories = require("./getallCategories")
+const getAllCategories = require("./getallCategories");
+
+module.exports = {
+    getAllCategories
+}
